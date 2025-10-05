@@ -3,7 +3,7 @@ ShaderToy project that generates a synthwave like image with moving ground a sur
 
 Link: https://www.shadertoy.com/view/W3fyDM#
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0f48348-45dc-4c59-9a5a-813f57ebe257" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76164e10-e6be-481f-b9e1-a3e7e7479de5" />
 
 Made for the YSWS Penumbra from Hack Club!
 
